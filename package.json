@@ -2,7 +2,7 @@
     "name": "react-native-swipe-list-view",
     "version": "3.2.9",
     "main": "lib/index.js",
-    "author": "Jesse Sessler <jesse.sessler@gmail.com>",
+    "author": "Jesse Sessler <vinayppsharma@gmail.com>",
     "description": "A ListView with rows that swipe open and closed.",
     "scripts": {
         "start": "node_modules/react-native/packager/packager.sh",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jemise111/react-native-swipe-list-view"
+        "url": "https://github.com/vinayppsharma/react-native-swipe-list-view"
     },
     "types": "./types/index.d.ts",
     "license": "MIT",
